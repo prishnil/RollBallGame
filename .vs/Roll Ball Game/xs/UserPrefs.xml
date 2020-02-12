@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EB92E394-3D65-D5B9-D115-320DA047D671}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraController.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/DynamicScript.cs" Line="20" Column="43" />
+      <File FileName="Assets/Scripts/DynamicScript1.cs" Line="22" Column="46" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="91" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Roll Ball Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Roll Ball Game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="263844ed-5365-4e43-b360-d92232f6e6dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
